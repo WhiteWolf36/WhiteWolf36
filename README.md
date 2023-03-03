@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @WhiteWolf36
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning MERN Stack
+- 🎮 Have a basic knowlege about game development
 - 💞️ I’m looking to collaborate on any basic project for beginners
 - 📫 How to reach me ahmadking78654@gmail.com
 
