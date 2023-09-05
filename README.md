@@ -31,4 +31,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whitewolf36&show_icons=true&locale=en&layout=compact" alt="whitewolf36" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whitewolf36&show_icons=true&locale=en" alt="whitewolf36" /></p>
-<a href="https://app.daily.dev/WhiteWolf69"><img src="https://api.daily.dev/devcards/368b59b71d9c4f6ab4e6db870872e8c3.png?r=cw5" width="300" height="350"  alt="Ahmad Aziz's Dev Card"/></a>
+<a href="https://app.daily.dev/WhiteWolf69"><img src="https://api.daily.dev/devcards/368b59b71d9c4f6ab4e6db870872e8c3.png?r=cw5" width="400"   alt="Ahmad Aziz's Dev Card"/></a>
