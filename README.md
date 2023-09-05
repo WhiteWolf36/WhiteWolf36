@@ -30,4 +30,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whitewolf36&show_icons=true&locale=en&layout=compact" alt="whitewolf36" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whitewolf36&show_icons=true&locale=en" alt="whitewolf36" height="480" width="480" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whitewolf36&show_icons=true&locale=en" alt="whitewolf36" /></p>
