@@ -21,8 +21,8 @@
 <p align="left">
 <a href="https://dev.to/whitewolf36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="whitewolf36" height="30" width="40" /></a>
 <a href="https://twitter.com/parhloahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parhloahmad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmad-aziz36/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmad-aziz36/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22250212/ahmad-aziz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22250212/ahmad-aziz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmad-aziz36/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmad-aziz36/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22250212/ahmad-aziz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22250212/ahmad-aziz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,12 +30,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whitewolf36&show_icons=true&locale=en&layout=compact" alt="whitewolf36" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whitewolf36&show_icons=true&locale=en" alt="whitewolf36" /></p>
-
-  
-<a href="https://app.daily.dev/WhiteWolf69"><img src="https://api.daily.dev/devcards/368b59b71d9c4f6ab4e6db870872e8c3.png?r=cw5" width="400"  alt="Ahmad Aziz's Dev Card"/></a>
-
-<!---
-WhiteWolf36/WhiteWolf36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whitewolf36&show_icons=true&locale=en" alt="whitewolf36" height="480" width="480" /></p>
