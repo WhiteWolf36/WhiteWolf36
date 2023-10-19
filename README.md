@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **full stack development (MERN & RemixJs)**
 
-- 📫 How to reach me **husnainarain46@gmail.com**
+- 📫 How to reach me **ahmadking78654@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
