@@ -2,9 +2,9 @@
 <h3 align="center">A passionate full stack web developer from Pakistan</h3>
 
 
-- 🔭 I’m currently working on **Movie rental (backend app)**
+- 🔭 I’m currently working on **Ecommerce App**
 
-- 🌱 I’m currently learning **MERN Stack and RemixJS**
+- 🌱 I’m currently learning **NextJS and Gen-AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/WhiteWolf36](https://github.com/WhiteWolf36)
 
