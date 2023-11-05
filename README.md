@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/WhiteWolf36](https://github.com/WhiteWolf36)
 
-- 💬 Ask me about **full stack development (MERN & RemixJs)**
+- 💬 Ask me about **full stack development (MERN Stack , NextJs & RemixJs)**
 
 - 📫 How to reach me **ahmadking78654@gmail.com**
 
